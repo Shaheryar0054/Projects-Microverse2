@@ -17,6 +17,7 @@ html {
   h1 {
     font-size: 4rem;
     margin-bottom: 0;
+    color: white;
   }
   
   @media (max-width: 460px) {
@@ -42,7 +43,7 @@ html {
     margin: 30px 8px;
     padding: 15px;
     border-radius: 5px;
-    background: rgb(238, 238, 238);
+    background: rgb(186, 94, 228);
   }
   
   @media (max-width: 460px) {
@@ -95,4 +96,7 @@ html {
     max-width: 545px;
     margin: 0 auto 50px auto;
     text-align: left;
+  }
+  .A1{
+    font-size: 25px;
   }
